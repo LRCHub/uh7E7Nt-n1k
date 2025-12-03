@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Celebrate",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-03T08:47:44.547170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/01_Celebrate_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Celebrate Me Home",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/02_Celebrate_Me_Home_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Celebrate The World",
+      "artist": "Womack & Womack",
+      "has_synced": true,
+      "path": "select/03_Celebrate_The_World_Womack_&_Womack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Celebrate Your Life",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/04_Celebrate_Your_Life_Sandra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Celebrate Your Life",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/05_Celebrate_Your_Life_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let's Celebrate",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/06_Let's_Celebrate_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Celebrate Our Love",
+      "artist": "Alice DJ",
+      "has_synced": true,
+      "path": "select/07_Celebrate_Our_Love_Alice_DJ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Celebrate Our Love",
+      "artist": "Alice Deejay",
+      "has_synced": true,
+      "path": "select/08_Celebrate_Our_Love_Alice_Deejay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "Fields of the Nephilim",
+      "has_synced": false,
+      "path": "select/09_Celebrate_Fields_of_the_Nephilim.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Celebrate (Live)",
+      "artist": "Fields of the Nephilim",
+      "has_synced": false,
+      "path": "select/10_Celebrate_(Live)_Fields_of_the_Nephilim.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/11_Celebrate_Metric.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Celebrate (feat. Rich Homie Quan)",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/12_Celebrate_(feat._Rich_Homie_Quan)_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "MIKA feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/13_Celebrate_MIKA_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "Mika",
+      "has_synced": true,
+      "path": "select/14_Celebrate_Mika.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Celebrate (Ryan Riback Remix)",
+      "artist": "MIKA feat. Pharrell Williams",
+      "has_synced": false,
+      "path": "select/15_Celebrate_(Ryan_Riback_Remix)_MIKA_feat._Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/16_Celebrate_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Celebrate - 2002 - Remaster",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/17_Celebrate_-_2002_-_Remaster_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Celebrate Our Love",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/18_Celebrate_Our_Love_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Celebrate",
+      "artist": "Doro",
+      "has_synced": true,
+      "path": "select/19_Celebrate_Doro.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Celebrate Your Skin",
+      "artist": "My Dying Bride",
+      "has_synced": true,
+      "path": "select/20_I_Celebrate_Your_Skin_My_Dying_Bride.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Celebrate",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Celebrate_TWICE.txt"
+    }
+  ]
+}
