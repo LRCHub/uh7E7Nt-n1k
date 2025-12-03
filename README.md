@@ -1,0 +1,81 @@
+# TWICE – Celebrate
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tonight, we'll celebrate our love
+After all this time
+We're still together
+いつも照らすSunshine
+その光でI'm fine
+君の愛はSo bright 輝かせた
+そうやって一緒に
+歩き続けたHistory
+そばに君がいたから
+I came this far baby
+どんな時でも
+ちゃんと声は届いているよ
+離れていても
+隣でささやくように
+そうやってずっと 一瞬一瞬を
+乗り越えてきたの
+I'm next to you 今でも
+You're next to me そう君の
+居場所でずっと
+Let's ce ce celebrate
+変わりゆく未来
+そのままでいたい
+君の手にも
+Let's ce ce ce celebrate
+Ta tan tala...
+Ta tan Celebrate (I Love it)
+Ta tan tala...
+Ta tan Celebrate (I Love it)
+It's real love
+こんな世界でも
+私たちは変わらないわ (1, 2, 3, 4)
+積もるMemory どうか忘れないように
+そう気づけばいつしかLike a family
+誰より支え合う存在に
+こんな距離は素敵ね
+I won't be afraid babe
+何が起こっても
+向き合っていくお互いを (You＆me)
+笑顔の日にも
+涙する日でさえも
+何百回でも どんな瞬間も
+一緒に歌おう
+I'm next to you 今でも
+You're next to me そう君の
+居場所でずっと
+Let's ce ce celebrate
+変わりゆく未来
+そのままでいたい
+君の手にも
+Let's ce ce ce celebrate
+Ta tan tala...
+Ta tan Celebrate (I Love it)
+Ta tan tala...
+Ta tan Celebrate (I Love it)
+これまでにずっと 君がくれたLove
+今日の私を (You made it)
+確かなEnergy 送らせて 今
+大切に思うの
+Cuz we've been together
+I'm next to you 今でも
+You're next to me そう君の
+居場所でずっと
+Let's ce ce celebrate
+変わりゆく未来
+そのままでいたい
+君の手にも
+Let's ce ce ce celebrate
+Ta tan tala...
+Ta tan Celebrate (I Love it)
+Ta tan tala...
+Ta tan Celebrate (I Love it)
+君とならふたり
+弾んでいく期待
+いつまででも
+Let's ce ce ce celebrate
+```
